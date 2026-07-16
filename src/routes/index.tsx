@@ -88,7 +88,7 @@ function LetterExperience() {
 
   return (
     <main className="relative min-h-screen w-full scene-vignette overflow-hidden">
-      <audio ref={audioRef} src="/music.mp3" preload="auto" loop />
+      <audio ref={audioRef} src="/love.mp3" preload="auto" loop />
 
       <AmbientParticles />
 
